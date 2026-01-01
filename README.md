@@ -3,6 +3,10 @@
 
 ![My stats](https://github-readme-streak-stats-blush-two.vercel.app?user=PirateJL&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+![](https://raw.githubusercontent.com/PirateJL/github-stats/master/generated/overview.svg)
+
+![](https://raw.githubusercontent.com/PirateJL/github-stats/master/generated/languages.svg)
+
 ---
 
 <h3 align="left">A passionate Full-Stack developer</h3>
