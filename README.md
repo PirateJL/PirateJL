@@ -3,8 +3,8 @@
 
 <p align="center">
  <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=PirateJL&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="my streak stats" />
- <img src="https://raw.githubusercontent.com/PirateJL/github-stats/master/generated/overview.svg" alt="my overview stats" />
- <img src="https://raw.githubusercontent.com/PirateJL/github-stats/master/generated/languages.svg" alt="my langs stats" />
+ <img src="https://raw.githubusercontent.com/PirateJL/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="my overview stats" />
+ <img src="https://raw.githubusercontent.com/PirateJL/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="my langs stats" />
 </p>
 
 ---
