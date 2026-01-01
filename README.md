@@ -30,7 +30,7 @@
 ---
  
 <h3 align="left">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h3>
-<p align="left">
+<p align="center">
   <a href="https://github.com/PirateJL">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=PirateJL&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
